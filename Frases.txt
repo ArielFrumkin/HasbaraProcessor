@@ -1,0 +1,97 @@
+﻿territorios ocupados,-,1
+cisjordania ocupada,-,1
+ocupacion israeli,-,1,
+en palestina,-,0.2
+territorios palestinos ocupados,-,1
+uso abusivo que hace israel,-,1
+carcel a cielo abierto,-,1
+israel asesino,-,1
+amnistia internacional,-,1
+human rights watch,-,1
+por parte de Israel de un sistema de apartheid contra el pueblo palestino,-,1
+violacion de derechos humanos,-,-1
+situacion de los derechos humanos en palestina,-,1
+resistencia pacifica,-,0.3
+palestin,-,0.1
+ultranacionalista religioso,-,1
+israelies ultranacionalistas,-,1
+ocupacion de jerusalen este,-,0.4
+encierra a miles de palestinos,-,1
+el muro del apartheid,-,1
+mutila a Jerusalen oriental,-,1 
+barrios jerosolimitanos palestinos,-,1
+asentamientos judios,-,0.2
+campamento de refugiados,-,0.2
+colonias israelies,-,1
+zonas ocupadas por israel,-,1
+incluida jerusalen este,-,1
+milicianos palestinos,-,1
+sin vislumbrarse un espacio para los palestinos,-,1
+colonos,-,0.5
+expulsion de personas palestinas,-,1
+dia de la nakba,-,0.5
+genocidio,-,0.1
+pueblo palestino,-,0.3
+territorio palestino ocupado,-,2
+territorios palestinos ocupados,-,2
+bloqueo israeli,-,1
+bloqueo ,-,0.1
+ofensiva israeli,-,1
+ofensiva militar israeli,-,1 
+unrwa,-,0.3
+militantes palestinos,-,1
+extremistas israelies,-,1
+nacionalistas judios,-,1
+nacionalistas israelies,-,1
+ultranacionalistas israelies,-,1
+colonos judios,-,1
+colonos israelies,-,1
+naciones unidas para los derechos humanos,-,0.3
+alta comisionada michelle bachelet,-,0.2
+"sospechosos de terrorismo",-,0.2
+asesinada intencionalmente por un soldado israeli,-,0.5
+años de bloqueo,-,0.1
+bloqueo ejercido por Israel,-,0.9
+salir o entrar a gaza,-,0.3
+refugiada de palestina,-,1
+refugiadas de palestina,-,1
+tratamiento medico fuera de gaza no fueron aprobadas a tiempo,-,1
+misil israeli,-,0.3
+territorio palestino ha sufrido,-,0.2
+cortes de electricidad,-1,0.1 
+agua contaminada,-,0.1
+cisjordania,-,0.1
+crimenes de guerra cometidos en palestina,-,1
+en palestina,-,0.5
+asentamientos ilegales,-,.9
+territorio palestino,-,1
+territorio ocupado,-,0.5
+expansion colonial israeli,-,1
+violencia de Israel,-,1
+violencia israeli,-,1
+pueblo palestino,-,0.2
+derechos humanos del pueblo palestino,-,1
+desplazamiento del pueblo palestino,-,1
+ataques por parte del ejercito israeli,-,1
+genocidio,-,0.2
+destrucción en palestina,-,1
+jerusalen este ocupado,-,1
+restricciones de israel,-,0.2
+colonias judias,-,1
+jerusalen oriental arabe,-,1
+represion de la poblacion palestina,-,1
+hospital palestino en jerusalen,-,1
+grupo militante,-,1
+israel mato,-,0.5
+israel asesino,-,1
+asesinado por israel,-,1
+bombardeos israelis,-,1
+bombardeos israelies,-,1
+que ya no duermen en sus camas,-,1
+explanada de las mezquitas,-,1
+Haram-El-Sharif,-,1
+consternacion por la operacion militar llevada a cabo por israel en nablus,-,4
+derecho internacional humanitario,-,1
+aspiraciones nacionales de palestinos,-,1
+incursion de contingentes militares israelies a cisjordania,-,1
+agresion militar realizada por israel,-,1
